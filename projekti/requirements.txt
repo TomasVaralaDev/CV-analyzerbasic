@@ -1,0 +1,9 @@
+flask
+nltk
+numpy
+sentence-transformers
+textblob
+torch
+scikit-learn
+scipy
+transformers
